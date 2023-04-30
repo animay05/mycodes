@@ -1,0 +1,75 @@
+02:53:43:123 (22168) > --- NIXXES log start ---
+02:53:43:125 (22168) > 
+02:53:43:127 (22168) > Memory statistics:
+02:53:43:130 (22168) >   Total RAM = 7.8 GB (8033 MB)
+02:53:43:131 (22168) >   Avail RAM = 3.1 GB (3134 MB)
+02:53:43:133 (22168) >   Total virtual memory = 4.0 GB (4095 MB)
+02:53:43:134 (22168) >   Avail virtual memory = 3.4 GB (3443 MB)
+02:53:43:136 (22168) > OS = Windows 8 (build 9200)
+02:53:43:137 (22168) > Starting Tomb Raider v1.01.748.0
+02:53:47:756 (22168) > [Main] Current directory: E:\SteamLibrary\steamapps\common\Tomb Raider
+02:53:47:821 (22168) > Mounted TITLE.000
+02:53:47:846 (22168) > Mounted PATCH.000
+02:53:47:863 (22168) > Mounted PATCH2.000
+02:53:48:958 (22168) > [Render] PCDeviceManager constructor start
+02:53:49:270 (22168) > [Render] PCDeviceManager constructor end
+02:53:50:465 (22168) > [Render] PCDX11DeviceManager constructor start
+02:53:50:477 (22168) > D3D Adapter Information:
+02:53:50:478 (22168) > Adapter Description: NVIDIA GeForce GTX 1650
+02:53:50:479 (22168) > VendorID: 10de
+02:53:50:480 (22168) > DeviceID: 1f91
+02:53:50:481 (22168) > Revision: a1
+02:53:50:481 (22168) > NVidia hardware detected. Attemping to load NVAPI...
+02:53:50:484 (22168) > NVAPI loaded succesfully.
+02:53:50:486 (22168) > NvAPI_Stereo_IsEnabled() returned an error: -219
+02:53:50:668 (22168) > Reducing mouse lag by setting frame latency to 1...
+02:53:50:670 (22168) > D3D reports feature level 11 is supported.
+02:53:50:677 (22168) > NVAPI Depth Bounds Test supported.
+02:53:50:740 (22168) > D3D Adapter Information:
+02:53:50:742 (22168) > Adapter Description: Intel(R) UHD Graphics 630
+02:53:50:743 (22168) > VendorID: 8086
+02:53:50:744 (22168) > DeviceID: 3e9b
+02:53:50:745 (22168) > Revision: 0
+02:53:50:998 (22168) > Reducing mouse lag by setting frame latency to 1...
+02:53:51:001 (22168) > D3D reports feature level 11 is supported.
+02:53:51:004 (22168) > D3D reports no hardware multiple command list support.
+02:53:51:032 (22168) > [Render] Adapter I has no outputs!
+02:53:51:039 (22168) > D3D Adapter Information:
+02:53:51:040 (22168) > Adapter Description: Microsoft Basic Render Driver
+02:53:51:042 (22168) > VendorID: 1414
+02:53:51:043 (22168) > DeviceID: 8c
+02:53:51:044 (22168) > Revision: 0
+02:53:51:097 (22168) > Reducing mouse lag by setting frame latency to 1...
+02:53:51:098 (22168) > D3D reports feature level 11 is supported.
+02:53:51:100 (22168) > D3D reports no hardware multiple command list support.
+02:53:51:107 (22168) > [Render] Adapter M has no outputs!
+02:53:51:109 (22168) > [Render] PCDX11DeviceManager constructor end
+02:53:54:355 (22168) > CPU count: logical = 8, cores = 4, physical = 1
+02:53:54:392 (22168) > D3D Adapter Information:
+02:53:54:397 (22168) > Adapter Description: NVIDIA GeForce GTX 1650
+02:53:54:398 (22168) > VendorID: 10de
+02:53:54:399 (22168) > DeviceID: 1f91
+02:53:54:400 (22168) > Revision: a1
+02:53:54:401 (22168) > NVidia hardware detected. Attemping to load NVAPI...
+02:53:54:402 (22168) > NVAPI loaded succesfully.
+02:53:54:404 (22168) > NvAPI_Stereo_IsEnabled() returned an error: -140
+02:53:55:470 (22168) > Reducing mouse lag by setting frame latency to 1...
+02:53:55:474 (22168) > D3D reports feature level 11 is supported.
+02:53:55:476 (22168) > NVAPI Depth Bounds Test supported.
+02:53:55:498 (20016) > CreateSwapChain() = 0
+02:53:55:499 (20016) > MakeWindowAssociation() = 0
+02:53:57:333 (20016) > SetFullscreenState() = 0
+02:53:57:551 (22168) > [Render] Using DirectX 11
+02:53:57:844 (22168) > Initalizing audio...
+02:53:57:955 (22168) > Audio device found. FMOD reports 2 driver(s).
+02:53:57:958 (22168) > Audio Driver Name: Headphone (Realtek(R) Audio)
+02:53:57:959 (22168) > Speaker Mode: 2
+02:54:06:149 (22168) > OLWebServiceClient [Status:200] [DownloadEvent:Finished] [HttpError:OK] [ServerError:OK]
+02:54:14:770 (22168) > Request (GetPlayerProfileFrom) [Id:1] failed ! [Status:404] [DownloadEvent:Resource Error] [HttpError:Response Status Code] [ServerError:OK]
+02:54:35:529 (22168) > Player object AddRef laracroft: 1 => 2
+02:54:35:535 (22168) > Player object AddRef laracroft: 2 => 3
+02:54:35:543 (22168) > Player object AddRef laracroft: 3 => 4
+03:01:24:077 (22168) > Player object RemRef laracroft: 4 => 3
+03:01:24:080 (22168) > Player object RemRef laracroft: 3 => 2
+03:01:24:082 (22168) > Player object RemRef laracroft: 2 => 1
+03:01:38:575 (22168) > Exiting the game.
