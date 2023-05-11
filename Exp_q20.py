@@ -1,0 +1,15 @@
+list = []
+n = int(input("Enter the number of elements: "))
+for i in range(0,n):
+    element = int(input())
+    list.append(element)
+print("Given series of numbers:")
+print(list)
+print("Length of the list is:")
+print(len(list))
+print("Series from the third given element: ")
+print(list[2::])
+print("Series from the third last term:")
+print(list[-3::])
+print("Sum:")
+print(sum(list))
